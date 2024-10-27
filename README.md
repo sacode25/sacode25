@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sacode25
-- 👀 I’m interested in coding and developement
+- 👀 I’m interested in coding and development
 - 🌱 I’m currently learning languages like HTML CSS JAVAScript ...
-- 💞️ I’m looking to develope my skills and knowledge
+- 💞️ I’m looking to develop my skills and knowledge
 - 📫 How to reach me : my ig : moo_nc18
 - 😄 Pronouns: she / her
 
